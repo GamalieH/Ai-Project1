@@ -217,4 +217,4 @@ if __name__ == "__main__":
     else:
         print("We have a draw")
     n=game.scoring()
-    print("player %d"%(game.current_player)," score is ",(game.scoring()))
+    
